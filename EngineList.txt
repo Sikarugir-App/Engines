@@ -1,2 +1,2 @@
 WS12WineCX23.7.1
-WS12WineWhisky-2.4.2
+WS12WineWhisky-2.4.4
