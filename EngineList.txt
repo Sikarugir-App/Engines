@@ -1,2 +1,3 @@
 WS12WineCX23.7.1
 WS12WhiskyWine2.4.4
+WS12WineGPTK1.1
