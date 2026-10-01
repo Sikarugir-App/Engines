@@ -1,5 +1,5 @@
 WS12WineSikarugir11.0_1
-WS12WineSikarugir10.0_7
+WS12WineSikarugir10.0_8
 WS12WineCX24.0.7_7
 WS12WineCX23.7.1_4
 WS12WhiskyWine2.5.0_3
